@@ -12,7 +12,7 @@ This project is an implementation of the classic "Dining Philosophers" problem i
 - The simulation ends when a philosopher dies from not eating in time.
 - The project simulates this problem with threads in Part 1 and processes with semaphores in Part 2.
 
-## Subject
+## Exercices subject
 - Several philosophers are sitting at a round table doing one of three things: eating, thinking, or sleeping.
 - While eating, they are not thinking or sleeping. While sleeping, they are not eating or thinking, and of course, while thinking, they are not eating or sleeping.
 - The philosophers sit at a circular table with a large bowl of spaghetti in the center.
